@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-#  RUN THIS APPLICACTION YOU NEED TO RE INSTALL THE NODE MODULES ONE TIME YOU CLONED THE REPOSITORY ( run npm i)
+# FOR RUN THIS APPLICACTION YOU NEED TO RE INSTALL THE NODE MODULES ONE TIME YOU CLONED THE REPOSITORY ( run npm i)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
